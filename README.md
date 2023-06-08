@@ -49,6 +49,7 @@ Buy key <a href = "https://t.me/illusiobeluga">Here</a>
 Video tutorial <a href = "https://t.me/xyrusinc/767">Here</a>
 
 # It's a premium tool
+### Do not copy my code. You can use the code only for education purpose. Also give us credit 🙂
 
 ### Thanks For Star🙏👨‍💻
 
