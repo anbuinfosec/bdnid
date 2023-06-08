@@ -12,12 +12,12 @@ A python open source tool for find bd nid information.
 - colorama
 - halo
 
-# Install all modules 
+## Install all modules if not installed
 ````
 pip install -r requirements.txt
 ````
 
-# Install Termux
+## Install Termux
 ````
 pkg up -y
 pkg i git python -y
@@ -26,7 +26,7 @@ cd bdnid
 python nid.py
 ````
 
-# Install other os
+## Install other os
 ````
 sudo apt update && sudo apt upgrade -y
 sudo apt install git python -y
@@ -35,7 +35,7 @@ cd bdnid
 python nid.py
 ````
 
-# Edit key
+## Edit key
 
 ````
 nano config.json
