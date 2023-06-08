@@ -83,7 +83,7 @@ def main():
             else:
                 y = json.loads(response.text)
                 error_message = y.get('msg')
-                print(Fore.RED + "Error: " + error_message + Style.RESET_ALL)
+                print(Fore.RED + "Error: Nid information not found!" + Style.RESET_ALL)
     except FileNotFoundError:
         print(Fore.RED + " [-] Error: config.json file not found." + Style.RESET_ALL)
         return
