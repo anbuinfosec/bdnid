@@ -44,6 +44,10 @@ Then press ctrl + x then y then enter.
 
 Buy key <a href = "https://t.me/illusiobeluga">Here</a>
 
+
+
+Video tutorial <a href = "https://t.me/xyrusinc/767">Here</a>
+
 ### Thanks For Star🙏👨‍💻
 
 [![Stargazers repo](https://reporoster.com/stars/illusionghost3/bdnid)](https://github.com/illusionghost3/bdnid/)
