@@ -24,16 +24,19 @@ python nid.py
 
 # Install other os
 ````
-````
 sudo apt update && sudo apt upgrade -y
-
 sudo apt install git python -y
-
 git clone https://github.com/illusionghost3/bdnid.git
-
 cd bdnid
-
 python nid.py
-
 ````
 
+
+
+### Thanks For Star🙏👨‍💻
+
+[![Stargazers repo](https://reporoster.com/stars/illusionghost3/bdnid)](https://github.com/illusionghost3/bdnid/)
+
+### Thanks For Fork 🙏👨‍💻
+
+[![Forkers repo](https://reporoster.com/forks/illusionghost3/bdnid)](https://github.com/illusionghost3/bdnid/network/members)
