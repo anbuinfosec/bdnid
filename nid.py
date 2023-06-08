@@ -12,7 +12,6 @@ def validate_dob_format(dob):
     except ValueError:
         return False
 
-# Function to validate NID format
 def validate_nid_format(nid):
     return len(nid) in [10, 13, 17]
 
@@ -59,7 +58,7 @@ def main():
                 return
 
             json_data = {
-                'key': api_key, # your api key here
+                'key': api_key,
                 'nid': nid,
                 'dob': dob,
             }
