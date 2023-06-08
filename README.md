@@ -31,7 +31,14 @@ cd bdnid
 python nid.py
 ````
 
+# Edit key
 
+````
+nano config.json
+````
+Then press ctrl + x then y then enter.
+
+Buy key <a href = "https://t.me/illusiobeluga">Here</a>
 
 ### Thanks For Star🙏👨‍💻
 
