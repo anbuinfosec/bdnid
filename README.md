@@ -48,6 +48,8 @@ Buy key <a href = "https://t.me/illusiobeluga">Here</a>
 
 Video tutorial <a href = "https://t.me/xyrusinc/767">Here</a>
 
+# It's a premium tool
+
 ### Thanks For Star🙏👨‍💻
 
 [![Stargazers repo](https://reporoster.com/stars/illusionghost3/bdnid)](https://github.com/illusionghost3/bdnid/)
