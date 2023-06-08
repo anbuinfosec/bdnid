@@ -12,6 +12,10 @@ A python open source tool for find bd nid information.
 - colorama
 - halo
 
+# Install all modules 
+````
+pip install -r requirements.txt
+````
 
 # Install Termux
 ````
