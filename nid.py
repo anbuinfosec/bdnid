@@ -59,11 +59,11 @@ def main():
                 return
 
             json_data = {
-                'key': api_key,
+                'key': api_key, # your api key here
                 'nid': nid,
                 'dob': dob,
             }
-            spinner = Halo(text='[+] Please wait finding nid information...', spinner='dots12')
+            spinner = Halo(text='[+] Please wait Searching Nid information...', spinner='dots12')
             
             spinner.start()
 
