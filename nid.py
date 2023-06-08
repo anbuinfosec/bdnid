@@ -40,7 +40,7 @@ def main():
             api_key = config_data.get('key')
 
             if not api_key:
-                print(Fore.RED + "Error: 'key' not found in config.json." + Style.RESET_ALL)
+                print(Fore.RED + "❌ Error: 'key' not found in config.json." + Style.RESET_ALL)
                 return
 
             headers = {
