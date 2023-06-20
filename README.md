@@ -5,7 +5,7 @@ A python open source tool for find bd nid information.
 - python3
 - termux/linux/parrot etc
 - Internet 
-- Key
+- apiKey [Get ApiKey](https://t.me/xyrusinc)
 
 ## Module requirements 
 - requests
